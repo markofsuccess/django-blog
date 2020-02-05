@@ -1,0 +1,4 @@
+*sqlite
+*.pyc
+.~.theia
+__pycache__/
