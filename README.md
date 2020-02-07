@@ -1,5 +1,5 @@
 # Django-Blog Mini Project
 
-A simple blog app written using Django. See the live version [here](https://new-blog-test-app-django.herokuapp.com/posts/1/)
+A simple blog app written using Django. See the live version [here](https://new-blog-test-app-django.herokuapp.com/posts/)
 
 [![Build Status](https://travis-ci.org/markofsuccess/django-blog.svg?branch=master)](https://travis-ci.org/markofsuccess/django-blog)
